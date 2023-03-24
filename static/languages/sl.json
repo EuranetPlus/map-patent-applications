@@ -4,10 +4,10 @@
   "legend1": "Ni podatkov",
   "tooltip1": "aplikacije",
   "textSourceDescription": "Vir",
-  "textSource": "GORIVO",
+  "textSource": "Evropski patentni urad",
   "textNoteDescription": "Opomba",
   "textNote": "",
-  "textDataAccess": "Dostop do podatkov",
+  "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
   "textCountryClick": "Kliknite za več informacij"
 }
