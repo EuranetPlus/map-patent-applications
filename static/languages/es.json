@@ -1,13 +1,13 @@
 {
   "heading": "Solicitudes de patentes en los países de la UE",
-  "subheading": "Número general de solicitudes de patentes por millón de habitantes en países de la Unión Europea en 2022",
-  "legend1": "Datos no disponibles",
+  "subheading": "Número general de solicitudes de patentes por millón de habitantes en los países de la Unión Europea en 2022",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "aplicaciones",
   "textSourceDescription": "Fuente",
   "textSource": "Oficina Europea de Patentes",
   "textNoteDescription": "Nota",
-  "textNote": "",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://new.epo.org/en/statistics-center#/aplicacionespercapita",
-  "textCountryClick": "Haga clic para obtener más información"
+  "textNote": "No hay datos disponibles para Malta y Luxemburgo.",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
+  "textCountryClick": "Haga clic para más información"
 }

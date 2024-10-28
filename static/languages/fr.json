@@ -1,13 +1,13 @@
 {
-  "heading": "Demandes de brevet dans les pays de l'UE",
-  "subheading": "Nombre général de demandes de brevet par million d'habitants dans les pays de l'Union européenne en 2022",
-  "legend1": "Pas de données disponibles",
+  "heading": "Demandes de brevets dans les pays de l'UE",
+  "subheading": "Nombre général de demandes de brevets par million d'habitants dans les pays de l'Union européenne en 2022",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": "applications",
   "textSourceDescription": "Source",
   "textSource": "Office européen des brevets",
   "textNoteDescription": "Note",
-  "textNote": "",
+  "textNote": "Aucune donnée fournie pour Malte et le Luxembourg.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
+  "linkDataAccess": "https://new.epo.org/fr/statistics-centre#/applicationspercapita",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

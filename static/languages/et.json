@@ -5,8 +5,8 @@
   "tooltip1": "rakendusi",
   "textSourceDescription": "Allikas",
   "textSource": "Euroopa Patendiamet",
-  "textNoteDescription": "Märge",
-  "textNote": "",
+  "textNoteDescription": "Märkus",
+  "textNote": "Malta ja Luksemburgi kohta andmed puuduvad.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

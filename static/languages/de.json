@@ -1,13 +1,13 @@
 {
-  "heading": "Patentanmeldungen in EU-Ländern",
-  "subheading": "Allgemeine Zahl der Patentanmeldungen pro Million Einwohner in den Ländern der Europäischen Union im Jahr 2022",
+  "heading": "Patentanmeldungen in allen EU-Ländern",
+  "subheading": "Allgemeine Anzahl der Patentanmeldungen pro Million Einwohner in Ländern der Europäischen Union im Jahr 2022",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "Anwendungen",
   "textSourceDescription": "Quelle",
   "textSource": "Europäisches Patentamt",
   "textNoteDescription": "Notiz",
-  "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Für Malta und Luxemburg liegen keine Daten vor.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

@@ -1,12 +1,12 @@
 {
   "heading": "Патентни заявки в страните от ЕС",
   "subheading": "Общ брой патентни заявки на милион жители в страните от Европейския съюз през 2022 г",
-  "legend1": "Няма данни",
+  "legend1": "Няма налични данни",
   "tooltip1": "приложения",
   "textSourceDescription": "Източник",
   "textSource": "Европейско патентно ведомство",
   "textNoteDescription": "Забележка",
-  "textNote": "",
+  "textNote": "Няма данни за Малта и Люксембург.",
   "textDataAccess": "Достъп до данните",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
   "textCountryClick": "Кликнете за повече информация"

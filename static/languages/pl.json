@@ -1,13 +1,13 @@
 {
-  "heading": "Zgłoszenia patentowe w krajach UE",
-  "subheading": "Ogólna liczba zgłoszeń patentowych na milion mieszkańców w krajach Unii Europejskiej w 2022 roku",
+  "heading": "Wnioski patentowe w krajach UE",
+  "subheading": "Ogólna liczba zgłoszeń patentowych na milion mieszkańców w krajach Unii Europejskiej w 2022 r.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "Aplikacje",
+  "tooltip1": "aplikacje",
   "textSourceDescription": "Źródło",
   "textSource": "Europejski Urząd Patentowy",
   "textNoteDescription": "Notatka",
-  "textNote": "",
+  "textNote": "Brak danych dla Malty i Luksemburga.",
   "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
+  "linkDataAccess": "https://new.epo.org/en/centrum-statystyczne#/applicationspercapita",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

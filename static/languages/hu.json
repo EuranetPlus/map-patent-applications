@@ -1,12 +1,12 @@
 {
   "heading": "Szabadalmi bejelentések az EU országaiban",
   "subheading": "Az Európai Unió országaiban az egymillió lakosra jutó szabadalmi bejelentések általános száma 2022-ben",
-  "legend1": "Nincs elérhető adat",
+  "legend1": "Nincs adat",
   "tooltip1": "alkalmazások",
   "textSourceDescription": "Forrás",
   "textSource": "Európai Szabadalmi Hivatal",
-  "textNoteDescription": "jegyzet",
-  "textNote": "",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Máltára és Luxemburgra vonatkozóan nincsenek adatok.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
   "textCountryClick": "További információért kattintson"
