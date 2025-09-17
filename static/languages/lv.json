@@ -1,13 +1,13 @@
 {
   "heading": "Patentu pieteikumi visās ES valstīs",
-  "subheading": "Vispārējais patentu pieteikumu skaits uz miljonu iedzīvotāju Eiropas Savienības valstīs 2022. gadā",
-  "legend1": "Nav pieejami dati",
+  "subheading": "Kopējais patentu pieteikumu skaits uz miljonu iedzīvotāju Eiropas Savienības valstīs 2022. gadā",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "lietojumprogrammas",
   "textSourceDescription": "Avots",
   "textSource": "Eiropas Patentu iestāde",
   "textNoteDescription": "Piezīme",
-  "textNote": "Nav sniegti dati par Maltu un Luksemburgu.",
+  "textNote": "Dati par Maltu un Luksemburgu nav sniegti.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

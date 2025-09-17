@@ -1,13 +1,13 @@
 {
   "heading": "Patentne prijave v državah EU",
   "subheading": "Splošno število patentnih prijav na milijon prebivalcev v državah Evropske unije v letu 2022",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "aplikacije",
   "textSourceDescription": "Vir",
   "textSource": "Evropski patentni urad",
   "textNoteDescription": "Opomba",
-  "textNote": "Podatkov za Malto in Luksemburg ni.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Za Malto in Luksemburg ni podatkov.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
   "textCountryClick": "Kliknite za več informacij"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Cereri de brevet în țările UE",
-  "subheading": "Numărul general de cereri de brevet la un milion de locuitori în țările Uniunii Europene în 2022",
-  "legend1": "Nu există date disponibile",
-  "tooltip1": "aplicatii",
+  "heading": "Cereri de brevete în țările UE",
+  "subheading": "Numărul general de cereri de brevete la un milion de locuitori în țările Uniunii Europene în 2022",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "aplicații",
   "textSourceDescription": "Sursă",
   "textSource": "Oficiul European de Brevete",
   "textNoteDescription": "Nota",
-  "textNote": "Nu sunt date date pentru Malta și Luxemburg.",
+  "textNote": "Nu sunt furnizate date pentru Malta și Luxemburg.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Prijave patenata u zemljama EU",
-  "subheading": "Opći broj prijava patenata na milijun stanovnika u zemljama Europske unije u 2022",
+  "heading": "Prijave patenata u zemljama EU-a",
+  "subheading": "Opći broj patentnih prijava na milijun stanovnika u zemljama Europske unije u 2022. godini",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "aplikacije",
   "textSourceDescription": "Izvor",
   "textSource": "Europski patentni ured",
   "textNoteDescription": "Bilješka",
   "textNote": "Nema podataka za Maltu i Luksemburg.",
-  "textDataAccess": "Pristupite podacima",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
   "textCountryClick": "Kliknite za više informacija"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Applikazzjonijiet għall-privattivi madwar il-pajjiżi tal-UE",
+  "heading": "Applikazzjonijiet għal privattivi madwar il-pajjiżi tal-UE",
   "subheading": "Numru ġenerali ta' applikazzjonijiet għal privattivi għal kull miljun abitant fil-pajjiżi tal-Unjoni Ewropea fl-2022",
-  "legend1": "Ebda data disponibbli",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "applikazzjonijiet",
   "textSourceDescription": "Sors",
-  "textSource": "Uffiċċju Ewropew tal-Privattivi",
+  "textSource": "Uffiċċju Ewropew tal-Brevetti",
   "textNoteDescription": "Nota",
-  "textNote": "L-ebda data ma ngħatat għal Malta u l-Lussemburgu.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Ma ngħatat l-ebda dejta għal Malta u l-Lussemburgu.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Patentansøgninger på tværs af EU-lande",
-  "subheading": "Generelt antal patentansøgninger pr. million indbyggere i lande i EU i 2022",
-  "legend1": "Ingen tilgængelige data",
+  "heading": "Patentansøgninger i EU-lande",
+  "subheading": "Generelt antal patentansøgninger pr. million indbyggere i lande i Den Europæiske Union i 2022",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "applikationer",
   "textSourceDescription": "Kilde",
-  "textSource": "Den Europæiske Patentmyndighed",
+  "textSource": "Det Europæiske Patentkontor",
   "textNoteDescription": "Note",
-  "textNote": "Ingen data givet for Malta og Luxembourg.",
-  "textDataAccess": "Få adgang til data",
+  "textNote": "Ingen data angivet for Malta og Luxembourg.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

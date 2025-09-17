@@ -1,13 +1,13 @@
 {
-  "heading": "Patenttihakemukset EU-maissa",
-  "subheading": "Patenttihakemusten yleinen määrä miljoonaa asukasta kohti Euroopan unionin maissa vuonna 2022",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "sovelluksia",
+  "heading": "Patenttihakemukset eri EU-maissa",
+  "subheading": "Patenttihakemusten yleinen määrä miljoonaa asukasta kohden Euroopan unionin maissa vuonna 2022",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltip1": "sovellukset",
   "textSourceDescription": "Lähde",
   "textSource": "Euroopan patenttivirasto",
-  "textNoteDescription": "Huom",
-  "textNote": "Maltasta ja Luxemburgista ei ole annettu tietoja.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Maltan ja Luxemburgin osalta ei ole annettu tietoja.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

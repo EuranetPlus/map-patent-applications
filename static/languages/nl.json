@@ -1,6 +1,6 @@
 {
   "heading": "Octrooiaanvragen in alle EU-landen",
-  "subheading": "Algemeen aantal patentaanvragen per miljoen inwoners in landen van de Europese Unie in 2022",
+  "subheading": "Algemeen aantal octrooiaanvragen per miljoen inwoners in landen van de Europese Unie in 2022",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "toepassingen",
   "textSourceDescription": "Bron",
@@ -9,5 +9,5 @@
   "textNote": "Er zijn geen gegevens beschikbaar voor Malta en Luxemburg.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

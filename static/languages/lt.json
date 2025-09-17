@@ -1,13 +1,13 @@
 {
-  "heading": "Patentinės paraiškos ES šalyse",
-  "subheading": "Bendras patentinių paraiškų skaičius milijonui gyventojų Europos Sąjungos šalyse 2022 m",
+  "heading": "Patentų paraiškos visose ES šalyse",
+  "subheading": "Bendras patentų paraiškų skaičius milijonui gyventojų Europos Sąjungos šalyse 2022 m.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "programas",
+  "tooltip1": "paraiškos",
   "textSourceDescription": "Šaltinis",
   "textSource": "Europos patentų biuras",
   "textNoteDescription": "Pastaba",
-  "textNote": "Duomenų apie Maltą ir Liuksemburgą nepateikta.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Maltos ir Liuksemburgo duomenų nepateikta.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://new.epo.org/en/statistics-centre#/applicationspercapita",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }
